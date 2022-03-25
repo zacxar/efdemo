@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.AssemblyInfo.cs
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\zac\dotnet_4\efdemo\obj\Debug\net6.0\efdemo.RazorAssemblyInfo.cs
